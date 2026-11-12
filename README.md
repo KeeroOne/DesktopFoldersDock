@@ -36,11 +36,11 @@
 ## 📸 Скриншоты
 
 
-![Главная панель](screenshots/SCRN.png)
-![Главная панель](screenshots/SCRN2.png)
-![Главная панель](screenshots/SCRN3.png)
-![Настройки](screenshots/SCRN4.png)
-![Контекстное окно](screenshots/SCRN5.png)
+![Главная панель](Screenshots/SCRN.png)
+![Главная панель](Screenshots/SCRN2.png)
+![Главная панель](Screenshots/SCRN3.png)
+![Настройки](Screenshots/SCRN4.png)
+![Контекстное окно](Screenshots/SCRN5.png)
 
 ---
 
