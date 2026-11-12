@@ -1,5 +1,7 @@
 # Desktop Folders Dock
 
+**Language:** [English](README.md) | [Русский](README.ru.md)
+
 ![Version](https://img.shields.io/badge/version-1.7-60CDFF?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.11%20%7C%20PyQt6-3776AB?style=flat-square)
@@ -52,3 +54,10 @@
 3. Запустите файл, выберите язык (**Русский** / **English**), путь установки и нужные ярлыки. Python устанавливать не требуется — все библиотеки уже включены.
 
 Вариант 2: Скомпилируйте из исходного кода
+
+
+💖 Поддержка проекта
+Если программа оказалась полезной, вы можете поддержать дальнейшую разработку:
+
+CLOUDTIPS https://pay.cloudtips.ru/p/ac9cc579
+DONATEPAY https://donatepay.ru/don/1542831
