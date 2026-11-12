@@ -35,7 +35,6 @@
 
 ## 📸 Скриншоты
 
-> *Разместите скриншоты панели, выпадающего меню и окна настроек в папке `screenshots/` репозитория.*
 
 ![Главная панель](screenshots/dock_preview.png)
 ![Окно настроек](screenshots/settings_preview.png)
@@ -45,12 +44,8 @@
 ## 🚀 Установка и запуск
 
 ### Вариант 1: Готовый установщик Windows (Рекомендуется)
-1. Перейдите в раздел **[Releases](https://github.com/your_username/DesktopFoldersDock/releases)**.
+1. Перейдите в раздел **[Releases](https://github.com/KeeroOne/DesktopFoldersDock/releases)**.
 2. Скачайте актуальный установщик **`DesktopFolders_Setup_v1.7.exe`**.
 3. Запустите файл, выберите язык (**Русский** / **English**), путь установки и нужные ярлыки. Python устанавливать не требуется — все библиотеки уже включены.
 
-### Вариант 2: Запуск из исходного кода
-1. Клонируйте репозиторий:
-   ```bash
-   git clone [https://github.com/your_username/DesktopFoldersDock.git](https://github.com/your_username/DesktopFoldersDock.git)
-   cd DesktopFoldersDock
+Вариант 2: Скомпилируйте из исходного кода
